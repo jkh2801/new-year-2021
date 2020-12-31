@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-year-2021/static/css/main.6f10b773.chunk.css",
+    "main.js": "/new-year-2021/static/js/main.04b65e44.chunk.js",
+    "main.js.map": "/new-year-2021/static/js/main.04b65e44.chunk.js.map",
+    "runtime-main.js": "/new-year-2021/static/js/runtime-main.5c8c5804.js",
+    "runtime-main.js.map": "/new-year-2021/static/js/runtime-main.5c8c5804.js.map",
+    "static/js/2.59ad28b1.chunk.js": "/new-year-2021/static/js/2.59ad28b1.chunk.js",
+    "static/js/2.59ad28b1.chunk.js.map": "/new-year-2021/static/js/2.59ad28b1.chunk.js.map",
+    "static/js/3.ba68da2f.chunk.js": "/new-year-2021/static/js/3.ba68da2f.chunk.js",
+    "static/js/3.ba68da2f.chunk.js.map": "/new-year-2021/static/js/3.ba68da2f.chunk.js.map",
+    "index.html": "/new-year-2021/index.html",
+    "static/css/main.6f10b773.chunk.css.map": "/new-year-2021/static/css/main.6f10b773.chunk.css.map",
+    "static/js/2.59ad28b1.chunk.js.LICENSE.txt": "/new-year-2021/static/js/2.59ad28b1.chunk.js.LICENSE.txt",
+    "static/media/cow.0de33251.png": "/new-year-2021/static/media/cow.0de33251.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8c5804.js",
+    "static/js/2.59ad28b1.chunk.js",
+    "static/css/main.6f10b773.chunk.css",
+    "static/js/main.04b65e44.chunk.js"
+  ]
+}
