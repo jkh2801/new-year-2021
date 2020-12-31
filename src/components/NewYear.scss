@@ -57,7 +57,6 @@
                         0 0 160px #ff5722,
                         0 0 320px #ff5722;
             transform: translate(50%, 50%) rotate(135deg);
-            overflow: hidden;
             img {
                 transform: translate(100%);
                 width: 100%;
@@ -195,7 +194,10 @@
     }
 }
 @keyframes animateSun {
-    0%, 99.9% {
+    0% {
+        overflow: hidden;
+    }
+    95% {
         overflow: hidden;
     }
     100% {
